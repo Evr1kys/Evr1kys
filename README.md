@@ -19,14 +19,14 @@
 
 **[HydraFlow](https://github.com/Evr1kys/HydraFlow)** — Smart anti-censorship proxy system
 
-- 🔄 Auto-detects your ISP and selects the best bypass method
+- 🔄 Auto-detects your ISP and selects the best bypass
 - 🌐 Works in Russia, China, Iran, Turkey, UAE
 - 📱 Compatible with v2rayNG, Hiddify, Clash, sing-box
-- ⚡ One-command install: `curl ... | bash`
-- 🧠 ISP-specific fragment/padding bypass settings
+- ⚡ One-command install on any VPS
+- 🧠 ISP-specific DPI bypass (fragment, padding, SNI rotation)
 - 🗺️ Real-time censorship monitoring map
 
-**35,000+ lines of Go** | **158 tests** | **CI ✅**
+**35,000+ lines of Go** · **158 tests** · **CI ✅**
 
 </td>
 <td width="50%">
@@ -50,17 +50,6 @@
 </td>
 </tr>
 </table>
-
----
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Evr1kys&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evr1kys&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" />
-
-</div>
 
 ---
 
