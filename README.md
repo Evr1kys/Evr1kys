@@ -8,6 +8,7 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=Evr1kys&style=for-the-badge&color=0ea5e9)](https://github.com/Evr1kys)
 [![GitHub followers](https://img.shields.io/github/followers/Evr1kys?style=for-the-badge&logo=github&color=181717)](https://github.com/Evr1kys?tab=followers)
+[![Portfolio](https://img.shields.io/badge/Открыть-портфолио-8B5CF6?style=for-the-badge&logo=github)](https://github.com/Evr1kys/portfolio)
 
 </div>
 
@@ -70,6 +71,8 @@ Telegram‑бот для загрузки видео и аудио с выбор
 Telegram‑боты, интернет‑магазины, SaaS‑панели, AI‑инструменты, API‑интеграции и автоматизация. Часть проектов закрыта из‑за NDA и данных заказчиков.
 
 `Python` `FastAPI` `React` `PostgreSQL`
+
+[Смотреть подробные кейсы →](https://github.com/Evr1kys/portfolio)
 
 </td>
 </tr>
