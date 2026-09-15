@@ -18,6 +18,7 @@ Full-stack разработчик: веб-сервисы, Telegram-боты, а�
 | [MetaLib Game](https://github.com/Evr1kys/metalib-game) | Магазин цифровых товаров: аккаунты, платежи, заказы, поддержка и административная часть | [![CI](https://github.com/Evr1kys/metalib-game/actions/workflows/ci.yml/badge.svg)](https://github.com/Evr1kys/metalib-game/actions/workflows/ci.yml) |
 | [Game Marketplace](https://github.com/Evr1kys/game-marketplace) | Маркетплейс игровых товаров с профилями, балансами, отзывами и чатом | [![CI](https://github.com/Evr1kys/game-marketplace/actions/workflows/ci.yml/badge.svg)](https://github.com/Evr1kys/game-marketplace/actions/workflows/ci.yml) |
 | [MetaLib VPN Bot](https://github.com/Evr1kys/metalib-vpn-bot) | Backend, Telegram-бот, Mini App, панель администратора и агент управления серверами | [![CI](https://github.com/Evr1kys/metalib-vpn-bot/actions/workflows/ci.yml/badge.svg)](https://github.com/Evr1kys/metalib-vpn-bot/actions/workflows/ci.yml) |
+| [Platega для XenForo](https://github.com/Evr1kys/xenforo-platega) | Платёжный провайдер для XenForo 2.2/2.3 с проверкой callback, повторных уведомлений и возвратов | [![Checks](https://github.com/Evr1kys/xenforo-platega/actions/workflows/checks.yml/badge.svg)](https://github.com/Evr1kys/xenforo-platega/actions/workflows/checks.yml) |
 
 Ещё исходники: [Video Bot](https://github.com/Evr1kys/metalib-video-bot), [Subscription Bot](https://github.com/Evr1kys/telegram-subscription-bot), [AutoShop](https://github.com/Evr1kys/autoshop-automation).
 
