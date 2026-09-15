@@ -78,6 +78,14 @@ Telegram‑бот для загрузки видео и аудио с выбор
 </tr>
 </table>
 
+### Ещё проекты с исходным кодом
+
+[MetaLib Game](https://github.com/Evr1kys/metalib-game) ·
+[Game Marketplace](https://github.com/Evr1kys/game-marketplace) ·
+[MetaLib VPN Bot](https://github.com/Evr1kys/metalib-vpn-bot) ·
+[Telegram Subscription Bot](https://github.com/Evr1kys/telegram-subscription-bot) ·
+[AutoShop](https://github.com/Evr1kys/autoshop-automation)
+
 ## Технологии
 
 <div align="center">
