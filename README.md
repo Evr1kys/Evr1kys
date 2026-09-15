@@ -54,6 +54,17 @@ Open‑source панель управления proxy‑инфраструкту
 </td>
 <td width="50%" valign="top">
 
+### [MetaLib Video Bot](https://github.com/Evr1kys/metalib-video-bot)
+
+Telegram‑бот для загрузки видео и аудио с выбором качества, админ‑панелью, статистикой и Docker‑развёртыванием.
+
+`Python` `aiogram` `yt-dlp` `Docker`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
 ### Private & commercial work
 
 Telegram‑боты, интернет‑магазины, SaaS‑панели, AI‑инструменты, API‑интеграции и автоматизация. Часть проектов закрыта из‑за NDA и данных заказчиков.
